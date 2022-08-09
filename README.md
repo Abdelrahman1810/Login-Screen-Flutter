@@ -4,7 +4,7 @@ A new Login Screen with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application named ***gifts***.
+This project is a starting point for a Flutter application named ***Present***.
 
 ## Helpful resources
 
